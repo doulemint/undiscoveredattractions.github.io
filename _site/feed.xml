@@ -1,8 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="https://undiscoveredattractions.github.io/jekyll-website//feed.xml" rel="self" type="application/atom+xml" /><link href="https://undiscoveredattractions.github.io/jekyll-website//" rel="alternate" type="text/html" /><updated>2016-10-22T15:00:17+01:00</updated><id>https://undiscoveredattractions.github.io/jekyll-website//</id><title>Undiscovered Attractions</title><subtitle>Attraction suggestions written by the locals.</subtitle><entry><title>Brussels</title><link href="https://undiscoveredattractions.github.io/jekyll-website//belgium/" rel="alternate" type="text/html" title="Brussels" /><published>2016-10-20T00:00:00+01:00</published><updated>2016-10-20T00:00:00+01:00</updated><id>https://undiscoveredattractions.github.io/jekyll-website//belgium</id><content type="html" xml:base="https://undiscoveredattractions.github.io/jekyll-website//belgium/">&lt;h3 id=&quot;belgium&quot;&gt;Belgium&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="https://undiscoveredattractions.github.io/jekyll-website//feed.xml" rel="self" type="application/atom+xml" /><link href="https://undiscoveredattractions.github.io/jekyll-website//" rel="alternate" type="text/html" /><updated>2016-10-22T15:05:27+01:00</updated><id>https://undiscoveredattractions.github.io/jekyll-website//</id><title>Undiscovered Attractions</title><subtitle>Attraction suggestions written by the locals.</subtitle><entry><title>Brussels</title><link href="https://undiscoveredattractions.github.io/jekyll-website//brussels/" rel="alternate" type="text/html" title="Brussels" /><published>2016-10-20T00:00:00+01:00</published><updated>2016-10-20T00:00:00+01:00</updated><id>https://undiscoveredattractions.github.io/jekyll-website//brussels</id><content type="html" xml:base="https://undiscoveredattractions.github.io/jekyll-website//brussels/">&lt;h3 id=&quot;belgium&quot;&gt;Belgium&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;ordered item&lt;/li&gt;
   &lt;li&gt;ordered item&lt;/li&gt;
   &lt;li&gt;ordered item&lt;/li&gt;
   &lt;li&gt;ordered item&lt;/li&gt;
-&lt;/ol&gt;</content><category term="Belgium" /><category term="Brussels" /><summary>Belgium</summary></entry></feed>
+&lt;/ol&gt;</content><category term="Belgium" /><category term="Brussels" /><summary>Belgium</summary></entry><entry><title>Antwerp</title><link href="https://undiscoveredattractions.github.io/jekyll-website//antwerp/" rel="alternate" type="text/html" title="Antwerp" /><published>2016-10-20T00:00:00+01:00</published><updated>2016-10-20T00:00:00+01:00</updated><id>https://undiscoveredattractions.github.io/jekyll-website//antwerp</id><content type="html" xml:base="https://undiscoveredattractions.github.io/jekyll-website//antwerp/">&lt;h3 id=&quot;antwerp&quot;&gt;Antwerp&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Belgium" /><category term="Antwerp" /><summary>Antwerp</summary></entry></feed>
