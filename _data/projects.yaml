@@ -1,6 +1,6 @@
 - title: Belgium
   url: /tags#Belgium
-  image: images/belgium.jpg
+  image: https://raw.githubusercontent.com/UndiscoveredAttractions/jekyll-website/master/images/belgium.jpg
   completed: true
 
 - title: Moon Jekyll Theme
