@@ -1,7 +1,7 @@
 # Site
 title: Undiscovered Attractions
 description: Attraction suggestions written by the locals.
-url: https://undiscoveredattractions.github.io/
+url: https://www.undiscoveredattractions.com/
 logo: halve.png                                       # Site logo
 locale: en_UK
 
@@ -34,7 +34,7 @@ sass:
 twitter:            username
 #facebook:           username
 github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     123456/username   from a "https://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
