@@ -1,9 +1,9 @@
 - title: Belgium
-  url: https://undiscoveredattractions.github.io/jekyll-website/tags#Belgium
+  url: https://undiscoveredattractions.github.io/tags#Belgium
   image: https://raw.githubusercontent.com/UndiscoveredAttractions/jekyll-website/master/images/belgium.jpg
   completed: true
 
 - title: Netherlands
-  url: https://undiscoveredattractions.github.io/jekyll-website/tags#Netherlands
+  url: https://undiscoveredattractions.github.io/tags#Netherlands
   image: https://raw.githubusercontent.com/UndiscoveredAttractions/jekyll-website/master/images/netherlands.jpg
   completed: true
