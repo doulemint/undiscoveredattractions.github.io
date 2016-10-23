@@ -17,3 +17,8 @@
   url: https://undiscoveredattractions.github.io/tags#Germany
   image: https://raw.githubusercontent.com/UndiscoveredAttractions/jekyll-website/master/images/germany.jpg
   completed: true
+  
+- title: Switzerland
+  url: https://undiscoveredattractions.github.io/tags#Switzerland
+  image: https://raw.githubusercontent.com/UndiscoveredAttractions/jekyll-website/master/images/switzerland.jpg
+  completed: true
