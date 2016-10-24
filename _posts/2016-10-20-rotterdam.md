@@ -13,7 +13,7 @@ image: images/rotterdam.jpg
 
 This enchanted port city is filled with character, even if it's shadowed in many people's minds by the larger destination in Amsterdam.
 
-As you enter Rotterdam whether that be on the plane or via car, you will notice the expansive financial centre consisting of skyscrapers such as the Maastoren. You will also see the Euromast, which appears later in this article.
+As you enter Rotterdam whether that be on the plane or via car, you will notice the expansive financial centre consisting of skyscrapers such as the Maastoren. You will also see the Euromast, which appears [later](#euromast) in this article.
 
 ### Cube Houses (Kubuswoningen)
 The Cube Houses originated as a bizarre experiment by architect Piet Blom and was intended to show a crowded but comfortable living space akin to trees in a forest. As a result of large contingent of intrigued tourists regularly flocking to the houses, a show cube (Kijkkubus) has been set up to provide us with all the exploring we need.
