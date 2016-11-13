@@ -177,21 +177,26 @@ canvas {
     display: inline-block;
     width: calc(100%/3);
     background: $overlay-color;
-    height: 50%;
+    height: 40%;
     border: 5px solid $overlay-color;
     position: relative;
     vertical-align: top;
     float: left;
     background-size: cover !important;
-    &:nth-child(8n+1),
-    &:nth-child(8n+2) {
-      width: 50%;
-      height: 70%;
-    }
-    &:nth-child(8n+6) {
-      width: calc(100%/3 + 100%/3);
-      height: 100%;
-    }
+	&:nth-child(8n+200),
+	&:nth-child(8n+201) {
+		width:50%;
+		height:70%;
+	}
+    //&:nth-child(8n+1),
+    //&:nth-child(8n+2) {
+    //  width: 50%;
+    //  height: 70%;
+    //}
+    //&:nth-child(8n+6) {
+    //  width: calc(100%/3 + 100%/3);
+    //  height: 100%;
+    //}
     a {
       border: 30px solid transparent;
       background: rgba(0, 0, 0, 0.3);
